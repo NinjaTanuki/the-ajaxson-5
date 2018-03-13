@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+body{ background-color: #ffffff; overflow: auto;
+background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");}
+
+#SearchMenu {
+background-color: #111111;
+color: #ffffff;
+margin: auto;
+position: absolute;
+overflow: auto;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+width: 100%;
+max-height: 90%;
+text-align: center; 
+  font-size: 20px ;
+font-family: 'Roboto', sans-serif;
+font-variant: small-caps;
+}
+#tag { border: solid 2px #111; width: 400px; }
+
+h1 {   font-size: 40px ;
+font-family: 'Roboto', sans-serif;
+font-variant: small-caps;
+}h2 {  color: #fff; font-size: 40px ;
+font-family: 'Roboto', sans-serif;
+font-variant: small-caps;
+}
+
+.button { 
+    background-color: #fff;
+    border: none;
+    color: #111;
+  font-weight: bold;
+padding: 10px;
+
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+font-family: 'Roboto', sans-serif;
+font-variant: small-caps;
+    margin: 4px 2px;
+    cursor: pointer;
+} 
+
+#feedback {color: red;}
+
+ 
